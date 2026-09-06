@@ -1,0 +1,14 @@
+C:\Users\schul\OneDrive\Documents\Varsity\Semester6\PROG7312(EB)\War ThunderTelemetry\WarThunderTelemetry\obj\Debug\net10.0\WarThunderTelemetry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schul\OneDrive\Documents\Varsity\Semester6\PROG7312(EB)\War ThunderTelemetry\WarThunderTelemetry\obj\Debug\net10.0\WarThunderTelemetry.AssemblyInfoInputs.cache
+C:\Users\schul\OneDrive\Documents\Varsity\Semester6\PROG7312(EB)\War ThunderTelemetry\WarThunderTelemetry\obj\Debug\net10.0\WarThunderTelemetry.AssemblyInfo.cs
+C:\Users\schul\OneDrive\Documents\Varsity\Semester6\PROG7312(EB)\War ThunderTelemetry\WarThunderTelemetry\obj\Debug\net10.0\WarThunderTelemetry.csproj.CoreCompileInputs.cache
+C:\Users\schul\OneDrive\Documents\Varsity\Semester6\PROG7312(EB)\War ThunderTelemetry\WarThunderTelemetry\bin\Debug\net10.0\WarThunderTelemetry.exe
+C:\Users\schul\OneDrive\Documents\Varsity\Semester6\PROG7312(EB)\War ThunderTelemetry\WarThunderTelemetry\bin\Debug\net10.0\WarThunderTelemetry.deps.json
+C:\Users\schul\OneDrive\Documents\Varsity\Semester6\PROG7312(EB)\War ThunderTelemetry\WarThunderTelemetry\bin\Debug\net10.0\WarThunderTelemetry.runtimeconfig.json
+C:\Users\schul\OneDrive\Documents\Varsity\Semester6\PROG7312(EB)\War ThunderTelemetry\WarThunderTelemetry\bin\Debug\net10.0\WarThunderTelemetry.dll
+C:\Users\schul\OneDrive\Documents\Varsity\Semester6\PROG7312(EB)\War ThunderTelemetry\WarThunderTelemetry\bin\Debug\net10.0\WarThunderTelemetry.pdb
+C:\Users\schul\OneDrive\Documents\Varsity\Semester6\PROG7312(EB)\War ThunderTelemetry\WarThunderTelemetry\obj\Debug\net10.0\WarThunderTelemetry.dll
+C:\Users\schul\OneDrive\Documents\Varsity\Semester6\PROG7312(EB)\War ThunderTelemetry\WarThunderTelemetry\obj\Debug\net10.0\refint\WarThunderTelemetry.dll
+C:\Users\schul\OneDrive\Documents\Varsity\Semester6\PROG7312(EB)\War ThunderTelemetry\WarThunderTelemetry\obj\Debug\net10.0\WarThunderTelemetry.pdb
+C:\Users\schul\OneDrive\Documents\Varsity\Semester6\PROG7312(EB)\War ThunderTelemetry\WarThunderTelemetry\obj\Debug\net10.0\WarThunderTelemetry.genruntimeconfig.cache
+C:\Users\schul\OneDrive\Documents\Varsity\Semester6\PROG7312(EB)\War ThunderTelemetry\WarThunderTelemetry\obj\Debug\net10.0\ref\WarThunderTelemetry.dll
