@@ -1,7 +1,7 @@
-﻿namespace WarThunderTelemetry;
-
-using WarThunderTelemetry.Models;
+﻿using WarThunderTelemetry.Models;
 using WarThunderTelemetry.Services;
+
+namespace WarThunderTelemetry;
 
 class Program
 {

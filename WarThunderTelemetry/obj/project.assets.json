@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\schul\\OneDrive\\Documents\\Varsity\\Semester6\\PROG7312(EB)\\War ThunderTelemetry\\WarThunderTelemetry\\WarThunderTelemetry.csproj",
+      "projectUniqueName": "C:\\Users\\schul\\OneDrive\\Documents\\GitHub\\WarThunderTelemetry\\WarThunderTelemetry\\WarThunderTelemetry.csproj",
       "projectName": "WarThunderTelemetry",
-      "projectPath": "C:\\Users\\schul\\OneDrive\\Documents\\Varsity\\Semester6\\PROG7312(EB)\\War ThunderTelemetry\\WarThunderTelemetry\\WarThunderTelemetry.csproj",
+      "projectPath": "C:\\Users\\schul\\OneDrive\\Documents\\GitHub\\WarThunderTelemetry\\WarThunderTelemetry\\WarThunderTelemetry.csproj",
       "packagesPath": "C:\\Users\\schul\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\schul\\OneDrive\\Documents\\Varsity\\Semester6\\PROG7312(EB)\\War ThunderTelemetry\\WarThunderTelemetry\\obj\\",
+      "outputPath": "C:\\Users\\schul\\OneDrive\\Documents\\GitHub\\WarThunderTelemetry\\WarThunderTelemetry\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

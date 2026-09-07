@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WarThunderTelemetry")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1ce97891c4c6815b74f28d3e2f7c868c75b51d9")]
 [assembly: System.Reflection.AssemblyProductAttribute("WarThunderTelemetry")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WarThunderTelemetry")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
